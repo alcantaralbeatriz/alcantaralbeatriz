@@ -4,8 +4,8 @@
 * Graduation: Veterinary Medicine - University of São Paulo
 * Master: one day I'll finish it :sweat_smile: :muscle:
 
-&rarr; __Goals__ :woman_scientist::dna:
-* Become a bioinformatician 
+&rarr; __Goals__ 
+* :woman_scientist::dna:
 
 &rarr; __Learning...__ :paw_prints:
 * Python :snake::white_heart:
