@@ -3,7 +3,6 @@
 &rarr; __Formal Education / Degree__ :woman_student:
 * Graduation: Veterinary Medicine - University of São Paulo :sweat_smile: :muscle:
 
-
 &rarr; __Goals__ 
 * :woman_scientist::dna:
 
